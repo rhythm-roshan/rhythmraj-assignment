@@ -1,0 +1,5 @@
+::1 - - [29/Aug/2017:06:09:27 +0000] "GET /static/form.html HTTP/1.1" 404 155 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+::1 - - [29/Aug/2017:06:09:27 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3000/static/form.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+::1 - - [29/Aug/2017:06:09:31 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+::1 - - [29/Aug/2017:06:09:41 +0000] "GET /form.html HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+::1 - - [29/Aug/2017:06:09:56 +0000] "POST / HTTP/1.1" 200 132 "http://localhost:3000/form.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
